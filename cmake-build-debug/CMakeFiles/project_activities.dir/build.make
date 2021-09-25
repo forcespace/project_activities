@@ -88,6 +88,11 @@ project_activities_EXTERNAL_OBJECTS =
 
 project_activities: CMakeFiles/project_activities.dir/main.cpp.o
 project_activities: CMakeFiles/project_activities.dir/build.make
+project_activities: /usr/local/lib/libsfml-graphics.2.5.1.dylib
+project_activities: /usr/local/lib/libsfml-audio.2.5.1.dylib
+project_activities: /usr/local/lib/libsfml-network.2.5.1.dylib
+project_activities: /usr/local/lib/libsfml-window.2.5.1.dylib
+project_activities: /usr/local/lib/libsfml-system.2.5.1.dylib
 project_activities: CMakeFiles/project_activities.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable project_activities"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/project_activities.dir/link.txt --verbose=$(VERBOSE)
