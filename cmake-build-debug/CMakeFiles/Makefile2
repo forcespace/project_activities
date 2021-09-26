@@ -64,15 +64,50 @@ CMAKE_BINARY_DIR = /Users/force.space/Documents/ips/с++/project_activities/cmak
 
 # The main recursive "all" target.
 all: CMakeFiles/project_activities.dir/all
+all: 01/all
+all: 02/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
-preinstall:
+preinstall: 01/preinstall
+preinstall: 02/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
 clean: CMakeFiles/project_activities.dir/clean
+clean: 01/clean
+clean: 02/clean
 .PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory 01
+
+# Recursive "all" directory target.
+01/all: 01/CMakeFiles/01.dir/all
+.PHONY : 01/all
+
+# Recursive "preinstall" directory target.
+01/preinstall:
+.PHONY : 01/preinstall
+
+# Recursive "clean" directory target.
+01/clean: 01/CMakeFiles/01.dir/clean
+.PHONY : 01/clean
+
+#=============================================================================
+# Directory level rules for directory 02
+
+# Recursive "all" directory target.
+02/all: 02/CMakeFiles/02.dir/all
+.PHONY : 02/all
+
+# Recursive "preinstall" directory target.
+02/preinstall:
+.PHONY : 02/preinstall
+
+# Recursive "clean" directory target.
+02/clean: 02/CMakeFiles/02.dir/clean
+.PHONY : 02/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/project_activities.dir
@@ -81,12 +116,12 @@ clean: CMakeFiles/project_activities.dir/clean
 CMakeFiles/project_activities.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target project_activities"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=5,6,7,8,9 "Built target project_activities"
 .PHONY : CMakeFiles/project_activities.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/project_activities.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/project_activities.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/project_activities.dir/rule
@@ -99,6 +134,58 @@ project_activities: CMakeFiles/project_activities.dir/rule
 CMakeFiles/project_activities.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/clean
 .PHONY : CMakeFiles/project_activities.dir/clean
+
+#=============================================================================
+# Target rules for target 01/CMakeFiles/01.dir
+
+# All Build rule for target.
+01/CMakeFiles/01.dir/all:
+	$(MAKE) $(MAKESILENT) -f 01/CMakeFiles/01.dir/build.make 01/CMakeFiles/01.dir/depend
+	$(MAKE) $(MAKESILENT) -f 01/CMakeFiles/01.dir/build.make 01/CMakeFiles/01.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 01"
+.PHONY : 01/CMakeFiles/01.dir/all
+
+# Build rule for subdir invocation for target.
+01/CMakeFiles/01.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 01/CMakeFiles/01.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : 01/CMakeFiles/01.dir/rule
+
+# Convenience name for target.
+01: 01/CMakeFiles/01.dir/rule
+.PHONY : 01
+
+# clean rule for target.
+01/CMakeFiles/01.dir/clean:
+	$(MAKE) $(MAKESILENT) -f 01/CMakeFiles/01.dir/build.make 01/CMakeFiles/01.dir/clean
+.PHONY : 01/CMakeFiles/01.dir/clean
+
+#=============================================================================
+# Target rules for target 02/CMakeFiles/02.dir
+
+# All Build rule for target.
+02/CMakeFiles/02.dir/all:
+	$(MAKE) $(MAKESILENT) -f 02/CMakeFiles/02.dir/build.make 02/CMakeFiles/02.dir/depend
+	$(MAKE) $(MAKESILENT) -f 02/CMakeFiles/02.dir/build.make 02/CMakeFiles/02.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 02"
+.PHONY : 02/CMakeFiles/02.dir/all
+
+# Build rule for subdir invocation for target.
+02/CMakeFiles/02.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 02/CMakeFiles/02.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : 02/CMakeFiles/02.dir/rule
+
+# Convenience name for target.
+02: 02/CMakeFiles/02.dir/rule
+.PHONY : 02
+
+# clean rule for target.
+02/CMakeFiles/02.dir/clean:
+	$(MAKE) $(MAKESILENT) -f 02/CMakeFiles/02.dir/build.make 02/CMakeFiles/02.dir/clean
+.PHONY : 02/CMakeFiles/02.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

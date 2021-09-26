@@ -129,6 +129,104 @@ project_activities/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/build
 .PHONY : project_activities/fast
 
+#=============================================================================
+# Target rules for targets named 01
+
+# Build rule for target.
+01: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 01
+.PHONY : 01
+
+# fast build rule for target.
+01/fast:
+	$(MAKE) $(MAKESILENT) -f 01/CMakeFiles/01.dir/build.make 01/CMakeFiles/01.dir/build
+.PHONY : 01/fast
+
+#=============================================================================
+# Target rules for targets named 02
+
+# Build rule for target.
+02: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 02
+.PHONY : 02
+
+# fast build rule for target.
+02/fast:
+	$(MAKE) $(MAKESILENT) -f 02/CMakeFiles/02.dir/build.make 02/CMakeFiles/02.dir/build
+.PHONY : 02/fast
+
+01/main.o: 01/main.cpp.o
+.PHONY : 01/main.o
+
+# target to build an object file
+01/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/01/main.cpp.o
+.PHONY : 01/main.cpp.o
+
+01/main.i: 01/main.cpp.i
+.PHONY : 01/main.i
+
+# target to preprocess a source file
+01/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/01/main.cpp.i
+.PHONY : 01/main.cpp.i
+
+01/main.s: 01/main.cpp.s
+.PHONY : 01/main.s
+
+# target to generate assembly for a file
+01/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/01/main.cpp.s
+.PHONY : 01/main.cpp.s
+
+02/main.o: 02/main.cpp.o
+.PHONY : 02/main.o
+
+# target to build an object file
+02/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/02/main.cpp.o
+.PHONY : 02/main.cpp.o
+
+02/main.i: 02/main.cpp.i
+.PHONY : 02/main.i
+
+# target to preprocess a source file
+02/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/02/main.cpp.i
+.PHONY : 02/main.cpp.i
+
+02/main.s: 02/main.cpp.s
+.PHONY : 02/main.s
+
+# target to generate assembly for a file
+02/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/02/main.cpp.s
+.PHONY : 02/main.cpp.s
+
+03/main.o: 03/main.cpp.o
+.PHONY : 03/main.o
+
+# target to build an object file
+03/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/03/main.cpp.o
+.PHONY : 03/main.cpp.o
+
+03/main.i: 03/main.cpp.i
+.PHONY : 03/main.i
+
+# target to preprocess a source file
+03/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/03/main.cpp.i
+.PHONY : 03/main.cpp.i
+
+03/main.s: 03/main.cpp.s
+.PHONY : 03/main.s
+
+# target to generate assembly for a file
+03/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/03/main.cpp.s
+.PHONY : 03/main.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -161,7 +259,18 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... 01"
+	@echo "... 02"
 	@echo "... project_activities"
+	@echo "... 01/main.o"
+	@echo "... 01/main.i"
+	@echo "... 01/main.s"
+	@echo "... 02/main.o"
+	@echo "... 02/main.i"
+	@echo "... 02/main.s"
+	@echo "... 03/main.o"
+	@echo "... 03/main.i"
+	@echo "... 03/main.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

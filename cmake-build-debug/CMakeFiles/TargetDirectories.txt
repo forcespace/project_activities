@@ -1,3 +1,9 @@
 /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir
+/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/CMakeFiles/rebuild_cache.dir
+/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/CMakeFiles/edit_cache.dir
+/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/CMakeFiles/01.dir
+/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/CMakeFiles/rebuild_cache.dir
+/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/CMakeFiles/edit_cache.dir
+/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/CMakeFiles/02.dir

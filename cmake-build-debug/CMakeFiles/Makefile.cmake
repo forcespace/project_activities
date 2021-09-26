@@ -31,6 +31,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Darwin.cmake"
   "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/UnixPaths.cmake"
   "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/ProcessorCount.cmake"
+  "../01/CMakeLists.txt"
+  "../02/CMakeLists.txt"
   "../CMakeLists.txt"
   "CMakeFiles/3.20.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.20.2/CMakeCXXCompiler.cmake"
@@ -51,9 +53,13 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "01/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "02/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/project_activities.dir/DependInfo.cmake"
+  "01/CMakeFiles/01.dir/DependInfo.cmake"
+  "02/CMakeFiles/02.dir/DependInfo.cmake"
   )

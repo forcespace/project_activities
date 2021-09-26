@@ -79,14 +79,59 @@ CMakeFiles/project_activities.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_activities.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/force.space/Documents/ips/с++/project_activities/main.cpp -o CMakeFiles/project_activities.dir/main.cpp.s
 
+CMakeFiles/project_activities.dir/01/main.cpp.o: CMakeFiles/project_activities.dir/flags.make
+CMakeFiles/project_activities.dir/01/main.cpp.o: ../01/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/project_activities.dir/01/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_activities.dir/01/main.cpp.o -c /Users/force.space/Documents/ips/с++/project_activities/01/main.cpp
+
+CMakeFiles/project_activities.dir/01/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project_activities.dir/01/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/force.space/Documents/ips/с++/project_activities/01/main.cpp > CMakeFiles/project_activities.dir/01/main.cpp.i
+
+CMakeFiles/project_activities.dir/01/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_activities.dir/01/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/force.space/Documents/ips/с++/project_activities/01/main.cpp -o CMakeFiles/project_activities.dir/01/main.cpp.s
+
+CMakeFiles/project_activities.dir/02/main.cpp.o: CMakeFiles/project_activities.dir/flags.make
+CMakeFiles/project_activities.dir/02/main.cpp.o: ../02/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/project_activities.dir/02/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_activities.dir/02/main.cpp.o -c /Users/force.space/Documents/ips/с++/project_activities/02/main.cpp
+
+CMakeFiles/project_activities.dir/02/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project_activities.dir/02/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/force.space/Documents/ips/с++/project_activities/02/main.cpp > CMakeFiles/project_activities.dir/02/main.cpp.i
+
+CMakeFiles/project_activities.dir/02/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_activities.dir/02/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/force.space/Documents/ips/с++/project_activities/02/main.cpp -o CMakeFiles/project_activities.dir/02/main.cpp.s
+
+CMakeFiles/project_activities.dir/03/main.cpp.o: CMakeFiles/project_activities.dir/flags.make
+CMakeFiles/project_activities.dir/03/main.cpp.o: ../03/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/project_activities.dir/03/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_activities.dir/03/main.cpp.o -c /Users/force.space/Documents/ips/с++/project_activities/03/main.cpp
+
+CMakeFiles/project_activities.dir/03/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project_activities.dir/03/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/force.space/Documents/ips/с++/project_activities/03/main.cpp > CMakeFiles/project_activities.dir/03/main.cpp.i
+
+CMakeFiles/project_activities.dir/03/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_activities.dir/03/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/force.space/Documents/ips/с++/project_activities/03/main.cpp -o CMakeFiles/project_activities.dir/03/main.cpp.s
+
 # Object files for target project_activities
 project_activities_OBJECTS = \
-"CMakeFiles/project_activities.dir/main.cpp.o"
+"CMakeFiles/project_activities.dir/main.cpp.o" \
+"CMakeFiles/project_activities.dir/01/main.cpp.o" \
+"CMakeFiles/project_activities.dir/02/main.cpp.o" \
+"CMakeFiles/project_activities.dir/03/main.cpp.o"
 
 # External object files for target project_activities
 project_activities_EXTERNAL_OBJECTS =
 
 project_activities: CMakeFiles/project_activities.dir/main.cpp.o
+project_activities: CMakeFiles/project_activities.dir/01/main.cpp.o
+project_activities: CMakeFiles/project_activities.dir/02/main.cpp.o
+project_activities: CMakeFiles/project_activities.dir/03/main.cpp.o
 project_activities: CMakeFiles/project_activities.dir/build.make
 project_activities: /usr/local/lib/libsfml-graphics.2.5.1.dylib
 project_activities: /usr/local/lib/libsfml-audio.2.5.1.dylib
@@ -94,7 +139,7 @@ project_activities: /usr/local/lib/libsfml-network.2.5.1.dylib
 project_activities: /usr/local/lib/libsfml-window.2.5.1.dylib
 project_activities: /usr/local/lib/libsfml-system.2.5.1.dylib
 project_activities: CMakeFiles/project_activities.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable project_activities"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable project_activities"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/project_activities.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

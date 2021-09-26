@@ -8,6 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/force.space/Documents/ips/с++/project_activities/01/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/01/main.cpp.o"
+  "/Users/force.space/Documents/ips/с++/project_activities/02/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/02/main.cpp.o"
+  "/Users/force.space/Documents/ips/с++/project_activities/03/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/03/main.cpp.o"
   "/Users/force.space/Documents/ips/с++/project_activities/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
