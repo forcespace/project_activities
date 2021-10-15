@@ -130,102 +130,374 @@ project_activities/fast:
 .PHONY : project_activities/fast
 
 #=============================================================================
-# Target rules for targets named 01
+# Target rules for targets named 3_01
 
 # Build rule for target.
-01: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 01
-.PHONY : 01
+3_01: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 3_01
+.PHONY : 3_01
 
 # fast build rule for target.
-01/fast:
-	$(MAKE) $(MAKESILENT) -f 01/CMakeFiles/01.dir/build.make 01/CMakeFiles/01.dir/build
-.PHONY : 01/fast
+3_01/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_01/CMakeFiles/3_01.dir/build.make lesson_3/3_01/CMakeFiles/3_01.dir/build
+.PHONY : 3_01/fast
 
 #=============================================================================
-# Target rules for targets named 02
+# Target rules for targets named 3_02
 
 # Build rule for target.
-02: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 02
-.PHONY : 02
+3_02: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 3_02
+.PHONY : 3_02
 
 # fast build rule for target.
-02/fast:
-	$(MAKE) $(MAKESILENT) -f 02/CMakeFiles/02.dir/build.make 02/CMakeFiles/02.dir/build
-.PHONY : 02/fast
+3_02/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_02/CMakeFiles/3_02.dir/build.make lesson_3/3_02/CMakeFiles/3_02.dir/build
+.PHONY : 3_02/fast
 
-01/main.o: 01/main.cpp.o
-.PHONY : 01/main.o
+#=============================================================================
+# Target rules for targets named 3_03
+
+# Build rule for target.
+3_03: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 3_03
+.PHONY : 3_03
+
+# fast build rule for target.
+3_03/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_03/CMakeFiles/3_03.dir/build.make lesson_3/3_03/CMakeFiles/3_03.dir/build
+.PHONY : 3_03/fast
+
+#=============================================================================
+# Target rules for targets named 4_01
+
+# Build rule for target.
+4_01: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 4_01
+.PHONY : 4_01
+
+# fast build rule for target.
+4_01/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_01/CMakeFiles/4_01.dir/build.make lesson_4/4_01/CMakeFiles/4_01.dir/build
+.PHONY : 4_01/fast
+
+#=============================================================================
+# Target rules for targets named 4_02
+
+# Build rule for target.
+4_02: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 4_02
+.PHONY : 4_02
+
+# fast build rule for target.
+4_02/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_02/CMakeFiles/4_02.dir/build.make lesson_4/4_02/CMakeFiles/4_02.dir/build
+.PHONY : 4_02/fast
+
+#=============================================================================
+# Target rules for targets named 4_03
+
+# Build rule for target.
+4_03: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 4_03
+.PHONY : 4_03
+
+# fast build rule for target.
+4_03/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_03/CMakeFiles/4_03.dir/build.make lesson_4/4_03/CMakeFiles/4_03.dir/build
+.PHONY : 4_03/fast
+
+#=============================================================================
+# Target rules for targets named 4_04
+
+# Build rule for target.
+4_04: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 4_04
+.PHONY : 4_04
+
+# fast build rule for target.
+4_04/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_04/CMakeFiles/4_04.dir/build.make lesson_4/4_04/CMakeFiles/4_04.dir/build
+.PHONY : 4_04/fast
+
+#=============================================================================
+# Target rules for targets named 4_05
+
+# Build rule for target.
+4_05: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 4_05
+.PHONY : 4_05
+
+# fast build rule for target.
+4_05/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_05/CMakeFiles/4_05.dir/build.make lesson_4/4_05/CMakeFiles/4_05.dir/build
+.PHONY : 4_05/fast
+
+#=============================================================================
+# Target rules for targets named 4_06
+
+# Build rule for target.
+4_06: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 4_06
+.PHONY : 4_06
+
+# fast build rule for target.
+4_06/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_06/CMakeFiles/4_06.dir/build.make lesson_4/4_06/CMakeFiles/4_06.dir/build
+.PHONY : 4_06/fast
+
+#=============================================================================
+# Target rules for targets named 5_01
+
+# Build rule for target.
+5_01: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 5_01
+.PHONY : 5_01
+
+# fast build rule for target.
+5_01/fast:
+	$(MAKE) $(MAKESILENT) -f lesson_5/5_01/CMakeFiles/5_01.dir/build.make lesson_5/5_01/CMakeFiles/5_01.dir/build
+.PHONY : 5_01/fast
+
+lesson_3/3_01/main.o: lesson_3/3_01/main.cpp.o
+.PHONY : lesson_3/3_01/main.o
 
 # target to build an object file
-01/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/01/main.cpp.o
-.PHONY : 01/main.cpp.o
+lesson_3/3_01/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_3/3_01/main.cpp.o
+.PHONY : lesson_3/3_01/main.cpp.o
 
-01/main.i: 01/main.cpp.i
-.PHONY : 01/main.i
+lesson_3/3_01/main.i: lesson_3/3_01/main.cpp.i
+.PHONY : lesson_3/3_01/main.i
 
 # target to preprocess a source file
-01/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/01/main.cpp.i
-.PHONY : 01/main.cpp.i
+lesson_3/3_01/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_3/3_01/main.cpp.i
+.PHONY : lesson_3/3_01/main.cpp.i
 
-01/main.s: 01/main.cpp.s
-.PHONY : 01/main.s
+lesson_3/3_01/main.s: lesson_3/3_01/main.cpp.s
+.PHONY : lesson_3/3_01/main.s
 
 # target to generate assembly for a file
-01/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/01/main.cpp.s
-.PHONY : 01/main.cpp.s
+lesson_3/3_01/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_3/3_01/main.cpp.s
+.PHONY : lesson_3/3_01/main.cpp.s
 
-02/main.o: 02/main.cpp.o
-.PHONY : 02/main.o
+lesson_3/3_02/main.o: lesson_3/3_02/main.cpp.o
+.PHONY : lesson_3/3_02/main.o
 
 # target to build an object file
-02/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/02/main.cpp.o
-.PHONY : 02/main.cpp.o
+lesson_3/3_02/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_3/3_02/main.cpp.o
+.PHONY : lesson_3/3_02/main.cpp.o
 
-02/main.i: 02/main.cpp.i
-.PHONY : 02/main.i
+lesson_3/3_02/main.i: lesson_3/3_02/main.cpp.i
+.PHONY : lesson_3/3_02/main.i
 
 # target to preprocess a source file
-02/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/02/main.cpp.i
-.PHONY : 02/main.cpp.i
+lesson_3/3_02/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_3/3_02/main.cpp.i
+.PHONY : lesson_3/3_02/main.cpp.i
 
-02/main.s: 02/main.cpp.s
-.PHONY : 02/main.s
+lesson_3/3_02/main.s: lesson_3/3_02/main.cpp.s
+.PHONY : lesson_3/3_02/main.s
 
 # target to generate assembly for a file
-02/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/02/main.cpp.s
-.PHONY : 02/main.cpp.s
+lesson_3/3_02/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_3/3_02/main.cpp.s
+.PHONY : lesson_3/3_02/main.cpp.s
 
-03/main.o: 03/main.cpp.o
-.PHONY : 03/main.o
+lesson_3/3_03/main.o: lesson_3/3_03/main.cpp.o
+.PHONY : lesson_3/3_03/main.o
 
 # target to build an object file
-03/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/03/main.cpp.o
-.PHONY : 03/main.cpp.o
+lesson_3/3_03/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_3/3_03/main.cpp.o
+.PHONY : lesson_3/3_03/main.cpp.o
 
-03/main.i: 03/main.cpp.i
-.PHONY : 03/main.i
+lesson_3/3_03/main.i: lesson_3/3_03/main.cpp.i
+.PHONY : lesson_3/3_03/main.i
 
 # target to preprocess a source file
-03/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/03/main.cpp.i
-.PHONY : 03/main.cpp.i
+lesson_3/3_03/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_3/3_03/main.cpp.i
+.PHONY : lesson_3/3_03/main.cpp.i
 
-03/main.s: 03/main.cpp.s
-.PHONY : 03/main.s
+lesson_3/3_03/main.s: lesson_3/3_03/main.cpp.s
+.PHONY : lesson_3/3_03/main.s
 
 # target to generate assembly for a file
-03/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/03/main.cpp.s
-.PHONY : 03/main.cpp.s
+lesson_3/3_03/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_3/3_03/main.cpp.s
+.PHONY : lesson_3/3_03/main.cpp.s
+
+lesson_4/4_01/main.o: lesson_4/4_01/main.cpp.o
+.PHONY : lesson_4/4_01/main.o
+
+# target to build an object file
+lesson_4/4_01/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_01/main.cpp.o
+.PHONY : lesson_4/4_01/main.cpp.o
+
+lesson_4/4_01/main.i: lesson_4/4_01/main.cpp.i
+.PHONY : lesson_4/4_01/main.i
+
+# target to preprocess a source file
+lesson_4/4_01/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_01/main.cpp.i
+.PHONY : lesson_4/4_01/main.cpp.i
+
+lesson_4/4_01/main.s: lesson_4/4_01/main.cpp.s
+.PHONY : lesson_4/4_01/main.s
+
+# target to generate assembly for a file
+lesson_4/4_01/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_01/main.cpp.s
+.PHONY : lesson_4/4_01/main.cpp.s
+
+lesson_4/4_02/main.o: lesson_4/4_02/main.cpp.o
+.PHONY : lesson_4/4_02/main.o
+
+# target to build an object file
+lesson_4/4_02/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_02/main.cpp.o
+.PHONY : lesson_4/4_02/main.cpp.o
+
+lesson_4/4_02/main.i: lesson_4/4_02/main.cpp.i
+.PHONY : lesson_4/4_02/main.i
+
+# target to preprocess a source file
+lesson_4/4_02/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_02/main.cpp.i
+.PHONY : lesson_4/4_02/main.cpp.i
+
+lesson_4/4_02/main.s: lesson_4/4_02/main.cpp.s
+.PHONY : lesson_4/4_02/main.s
+
+# target to generate assembly for a file
+lesson_4/4_02/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_02/main.cpp.s
+.PHONY : lesson_4/4_02/main.cpp.s
+
+lesson_4/4_03/main.o: lesson_4/4_03/main.cpp.o
+.PHONY : lesson_4/4_03/main.o
+
+# target to build an object file
+lesson_4/4_03/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_03/main.cpp.o
+.PHONY : lesson_4/4_03/main.cpp.o
+
+lesson_4/4_03/main.i: lesson_4/4_03/main.cpp.i
+.PHONY : lesson_4/4_03/main.i
+
+# target to preprocess a source file
+lesson_4/4_03/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_03/main.cpp.i
+.PHONY : lesson_4/4_03/main.cpp.i
+
+lesson_4/4_03/main.s: lesson_4/4_03/main.cpp.s
+.PHONY : lesson_4/4_03/main.s
+
+# target to generate assembly for a file
+lesson_4/4_03/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_03/main.cpp.s
+.PHONY : lesson_4/4_03/main.cpp.s
+
+lesson_4/4_04/main.o: lesson_4/4_04/main.cpp.o
+.PHONY : lesson_4/4_04/main.o
+
+# target to build an object file
+lesson_4/4_04/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_04/main.cpp.o
+.PHONY : lesson_4/4_04/main.cpp.o
+
+lesson_4/4_04/main.i: lesson_4/4_04/main.cpp.i
+.PHONY : lesson_4/4_04/main.i
+
+# target to preprocess a source file
+lesson_4/4_04/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_04/main.cpp.i
+.PHONY : lesson_4/4_04/main.cpp.i
+
+lesson_4/4_04/main.s: lesson_4/4_04/main.cpp.s
+.PHONY : lesson_4/4_04/main.s
+
+# target to generate assembly for a file
+lesson_4/4_04/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_04/main.cpp.s
+.PHONY : lesson_4/4_04/main.cpp.s
+
+lesson_4/4_05/main.o: lesson_4/4_05/main.cpp.o
+.PHONY : lesson_4/4_05/main.o
+
+# target to build an object file
+lesson_4/4_05/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_05/main.cpp.o
+.PHONY : lesson_4/4_05/main.cpp.o
+
+lesson_4/4_05/main.i: lesson_4/4_05/main.cpp.i
+.PHONY : lesson_4/4_05/main.i
+
+# target to preprocess a source file
+lesson_4/4_05/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_05/main.cpp.i
+.PHONY : lesson_4/4_05/main.cpp.i
+
+lesson_4/4_05/main.s: lesson_4/4_05/main.cpp.s
+.PHONY : lesson_4/4_05/main.s
+
+# target to generate assembly for a file
+lesson_4/4_05/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_05/main.cpp.s
+.PHONY : lesson_4/4_05/main.cpp.s
+
+lesson_4/4_06/main.o: lesson_4/4_06/main.cpp.o
+.PHONY : lesson_4/4_06/main.o
+
+# target to build an object file
+lesson_4/4_06/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_06/main.cpp.o
+.PHONY : lesson_4/4_06/main.cpp.o
+
+lesson_4/4_06/main.i: lesson_4/4_06/main.cpp.i
+.PHONY : lesson_4/4_06/main.i
+
+# target to preprocess a source file
+lesson_4/4_06/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_06/main.cpp.i
+.PHONY : lesson_4/4_06/main.cpp.i
+
+lesson_4/4_06/main.s: lesson_4/4_06/main.cpp.s
+.PHONY : lesson_4/4_06/main.s
+
+# target to generate assembly for a file
+lesson_4/4_06/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_4/4_06/main.cpp.s
+.PHONY : lesson_4/4_06/main.cpp.s
+
+lesson_5/5_01/main.o: lesson_5/5_01/main.cpp.o
+.PHONY : lesson_5/5_01/main.o
+
+# target to build an object file
+lesson_5/5_01/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_5/5_01/main.cpp.o
+.PHONY : lesson_5/5_01/main.cpp.o
+
+lesson_5/5_01/main.i: lesson_5/5_01/main.cpp.i
+.PHONY : lesson_5/5_01/main.i
+
+# target to preprocess a source file
+lesson_5/5_01/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_5/5_01/main.cpp.i
+.PHONY : lesson_5/5_01/main.cpp.i
+
+lesson_5/5_01/main.s: lesson_5/5_01/main.cpp.s
+.PHONY : lesson_5/5_01/main.s
+
+# target to generate assembly for a file
+lesson_5/5_01/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/lesson_5/5_01/main.cpp.s
+.PHONY : lesson_5/5_01/main.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -259,18 +531,47 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... 01"
-	@echo "... 02"
+	@echo "... 3_01"
+	@echo "... 3_02"
+	@echo "... 3_03"
+	@echo "... 4_01"
+	@echo "... 4_02"
+	@echo "... 4_03"
+	@echo "... 4_04"
+	@echo "... 4_05"
+	@echo "... 4_06"
+	@echo "... 5_01"
 	@echo "... project_activities"
-	@echo "... 01/main.o"
-	@echo "... 01/main.i"
-	@echo "... 01/main.s"
-	@echo "... 02/main.o"
-	@echo "... 02/main.i"
-	@echo "... 02/main.s"
-	@echo "... 03/main.o"
-	@echo "... 03/main.i"
-	@echo "... 03/main.s"
+	@echo "... lesson_3/3_01/main.o"
+	@echo "... lesson_3/3_01/main.i"
+	@echo "... lesson_3/3_01/main.s"
+	@echo "... lesson_3/3_02/main.o"
+	@echo "... lesson_3/3_02/main.i"
+	@echo "... lesson_3/3_02/main.s"
+	@echo "... lesson_3/3_03/main.o"
+	@echo "... lesson_3/3_03/main.i"
+	@echo "... lesson_3/3_03/main.s"
+	@echo "... lesson_4/4_01/main.o"
+	@echo "... lesson_4/4_01/main.i"
+	@echo "... lesson_4/4_01/main.s"
+	@echo "... lesson_4/4_02/main.o"
+	@echo "... lesson_4/4_02/main.i"
+	@echo "... lesson_4/4_02/main.s"
+	@echo "... lesson_4/4_03/main.o"
+	@echo "... lesson_4/4_03/main.i"
+	@echo "... lesson_4/4_03/main.s"
+	@echo "... lesson_4/4_04/main.o"
+	@echo "... lesson_4/4_04/main.i"
+	@echo "... lesson_4/4_04/main.s"
+	@echo "... lesson_4/4_05/main.o"
+	@echo "... lesson_4/4_05/main.i"
+	@echo "... lesson_4/4_05/main.s"
+	@echo "... lesson_4/4_06/main.o"
+	@echo "... lesson_4/4_06/main.i"
+	@echo "... lesson_4/4_06/main.s"
+	@echo "... lesson_5/5_01/main.o"
+	@echo "... lesson_5/5_01/main.i"
+	@echo "... lesson_5/5_01/main.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

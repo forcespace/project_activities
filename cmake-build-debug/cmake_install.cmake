@@ -39,12 +39,52 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/cmake_install.cmake")
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/cmake_install.cmake")
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

@@ -64,50 +64,194 @@ CMAKE_BINARY_DIR = /Users/force.space/Documents/ips/с++/project_activities/cmak
 
 # The main recursive "all" target.
 all: CMakeFiles/project_activities.dir/all
-all: 01/all
-all: 02/all
+all: lesson_3/3_01/all
+all: lesson_3/3_02/all
+all: lesson_3/3_03/all
+all: lesson_4/4_01/all
+all: lesson_4/4_02/all
+all: lesson_4/4_03/all
+all: lesson_4/4_04/all
+all: lesson_4/4_05/all
+all: lesson_4/4_06/all
+all: lesson_5/5_01/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
-preinstall: 01/preinstall
-preinstall: 02/preinstall
+preinstall: lesson_3/3_01/preinstall
+preinstall: lesson_3/3_02/preinstall
+preinstall: lesson_3/3_03/preinstall
+preinstall: lesson_4/4_01/preinstall
+preinstall: lesson_4/4_02/preinstall
+preinstall: lesson_4/4_03/preinstall
+preinstall: lesson_4/4_04/preinstall
+preinstall: lesson_4/4_05/preinstall
+preinstall: lesson_4/4_06/preinstall
+preinstall: lesson_5/5_01/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
 clean: CMakeFiles/project_activities.dir/clean
-clean: 01/clean
-clean: 02/clean
+clean: lesson_3/3_01/clean
+clean: lesson_3/3_02/clean
+clean: lesson_3/3_03/clean
+clean: lesson_4/4_01/clean
+clean: lesson_4/4_02/clean
+clean: lesson_4/4_03/clean
+clean: lesson_4/4_04/clean
+clean: lesson_4/4_05/clean
+clean: lesson_4/4_06/clean
+clean: lesson_5/5_01/clean
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory 01
+# Directory level rules for directory lesson_3/3_01
 
 # Recursive "all" directory target.
-01/all: 01/CMakeFiles/01.dir/all
-.PHONY : 01/all
+lesson_3/3_01/all: lesson_3/3_01/CMakeFiles/3_01.dir/all
+.PHONY : lesson_3/3_01/all
 
 # Recursive "preinstall" directory target.
-01/preinstall:
-.PHONY : 01/preinstall
+lesson_3/3_01/preinstall:
+.PHONY : lesson_3/3_01/preinstall
 
 # Recursive "clean" directory target.
-01/clean: 01/CMakeFiles/01.dir/clean
-.PHONY : 01/clean
+lesson_3/3_01/clean: lesson_3/3_01/CMakeFiles/3_01.dir/clean
+.PHONY : lesson_3/3_01/clean
 
 #=============================================================================
-# Directory level rules for directory 02
+# Directory level rules for directory lesson_3/3_02
 
 # Recursive "all" directory target.
-02/all: 02/CMakeFiles/02.dir/all
-.PHONY : 02/all
+lesson_3/3_02/all: lesson_3/3_02/CMakeFiles/3_02.dir/all
+.PHONY : lesson_3/3_02/all
 
 # Recursive "preinstall" directory target.
-02/preinstall:
-.PHONY : 02/preinstall
+lesson_3/3_02/preinstall:
+.PHONY : lesson_3/3_02/preinstall
 
 # Recursive "clean" directory target.
-02/clean: 02/CMakeFiles/02.dir/clean
-.PHONY : 02/clean
+lesson_3/3_02/clean: lesson_3/3_02/CMakeFiles/3_02.dir/clean
+.PHONY : lesson_3/3_02/clean
+
+#=============================================================================
+# Directory level rules for directory lesson_3/3_03
+
+# Recursive "all" directory target.
+lesson_3/3_03/all: lesson_3/3_03/CMakeFiles/3_03.dir/all
+.PHONY : lesson_3/3_03/all
+
+# Recursive "preinstall" directory target.
+lesson_3/3_03/preinstall:
+.PHONY : lesson_3/3_03/preinstall
+
+# Recursive "clean" directory target.
+lesson_3/3_03/clean: lesson_3/3_03/CMakeFiles/3_03.dir/clean
+.PHONY : lesson_3/3_03/clean
+
+#=============================================================================
+# Directory level rules for directory lesson_4/4_01
+
+# Recursive "all" directory target.
+lesson_4/4_01/all: lesson_4/4_01/CMakeFiles/4_01.dir/all
+.PHONY : lesson_4/4_01/all
+
+# Recursive "preinstall" directory target.
+lesson_4/4_01/preinstall:
+.PHONY : lesson_4/4_01/preinstall
+
+# Recursive "clean" directory target.
+lesson_4/4_01/clean: lesson_4/4_01/CMakeFiles/4_01.dir/clean
+.PHONY : lesson_4/4_01/clean
+
+#=============================================================================
+# Directory level rules for directory lesson_4/4_02
+
+# Recursive "all" directory target.
+lesson_4/4_02/all: lesson_4/4_02/CMakeFiles/4_02.dir/all
+.PHONY : lesson_4/4_02/all
+
+# Recursive "preinstall" directory target.
+lesson_4/4_02/preinstall:
+.PHONY : lesson_4/4_02/preinstall
+
+# Recursive "clean" directory target.
+lesson_4/4_02/clean: lesson_4/4_02/CMakeFiles/4_02.dir/clean
+.PHONY : lesson_4/4_02/clean
+
+#=============================================================================
+# Directory level rules for directory lesson_4/4_03
+
+# Recursive "all" directory target.
+lesson_4/4_03/all: lesson_4/4_03/CMakeFiles/4_03.dir/all
+.PHONY : lesson_4/4_03/all
+
+# Recursive "preinstall" directory target.
+lesson_4/4_03/preinstall:
+.PHONY : lesson_4/4_03/preinstall
+
+# Recursive "clean" directory target.
+lesson_4/4_03/clean: lesson_4/4_03/CMakeFiles/4_03.dir/clean
+.PHONY : lesson_4/4_03/clean
+
+#=============================================================================
+# Directory level rules for directory lesson_4/4_04
+
+# Recursive "all" directory target.
+lesson_4/4_04/all: lesson_4/4_04/CMakeFiles/4_04.dir/all
+.PHONY : lesson_4/4_04/all
+
+# Recursive "preinstall" directory target.
+lesson_4/4_04/preinstall:
+.PHONY : lesson_4/4_04/preinstall
+
+# Recursive "clean" directory target.
+lesson_4/4_04/clean: lesson_4/4_04/CMakeFiles/4_04.dir/clean
+.PHONY : lesson_4/4_04/clean
+
+#=============================================================================
+# Directory level rules for directory lesson_4/4_05
+
+# Recursive "all" directory target.
+lesson_4/4_05/all: lesson_4/4_05/CMakeFiles/4_05.dir/all
+.PHONY : lesson_4/4_05/all
+
+# Recursive "preinstall" directory target.
+lesson_4/4_05/preinstall:
+.PHONY : lesson_4/4_05/preinstall
+
+# Recursive "clean" directory target.
+lesson_4/4_05/clean: lesson_4/4_05/CMakeFiles/4_05.dir/clean
+.PHONY : lesson_4/4_05/clean
+
+#=============================================================================
+# Directory level rules for directory lesson_4/4_06
+
+# Recursive "all" directory target.
+lesson_4/4_06/all: lesson_4/4_06/CMakeFiles/4_06.dir/all
+.PHONY : lesson_4/4_06/all
+
+# Recursive "preinstall" directory target.
+lesson_4/4_06/preinstall:
+.PHONY : lesson_4/4_06/preinstall
+
+# Recursive "clean" directory target.
+lesson_4/4_06/clean: lesson_4/4_06/CMakeFiles/4_06.dir/clean
+.PHONY : lesson_4/4_06/clean
+
+#=============================================================================
+# Directory level rules for directory lesson_5/5_01
+
+# Recursive "all" directory target.
+lesson_5/5_01/all: lesson_5/5_01/CMakeFiles/5_01.dir/all
+.PHONY : lesson_5/5_01/all
+
+# Recursive "preinstall" directory target.
+lesson_5/5_01/preinstall:
+.PHONY : lesson_5/5_01/preinstall
+
+# Recursive "clean" directory target.
+lesson_5/5_01/clean: lesson_5/5_01/CMakeFiles/5_01.dir/clean
+.PHONY : lesson_5/5_01/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/project_activities.dir
@@ -116,12 +260,12 @@ clean: 02/clean
 CMakeFiles/project_activities.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=5,6,7,8,9 "Built target project_activities"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=21,22,23,24,25,26,27,28,29,30,31,32 "Built target project_activities"
 .PHONY : CMakeFiles/project_activities.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/project_activities.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 12
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/project_activities.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/project_activities.dir/rule
@@ -136,56 +280,264 @@ CMakeFiles/project_activities.dir/clean:
 .PHONY : CMakeFiles/project_activities.dir/clean
 
 #=============================================================================
-# Target rules for target 01/CMakeFiles/01.dir
+# Target rules for target lesson_3/3_01/CMakeFiles/3_01.dir
 
 # All Build rule for target.
-01/CMakeFiles/01.dir/all:
-	$(MAKE) $(MAKESILENT) -f 01/CMakeFiles/01.dir/build.make 01/CMakeFiles/01.dir/depend
-	$(MAKE) $(MAKESILENT) -f 01/CMakeFiles/01.dir/build.make 01/CMakeFiles/01.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 01"
-.PHONY : 01/CMakeFiles/01.dir/all
+lesson_3/3_01/CMakeFiles/3_01.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_01/CMakeFiles/3_01.dir/build.make lesson_3/3_01/CMakeFiles/3_01.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_01/CMakeFiles/3_01.dir/build.make lesson_3/3_01/CMakeFiles/3_01.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 3_01"
+.PHONY : lesson_3/3_01/CMakeFiles/3_01.dir/all
 
 # Build rule for subdir invocation for target.
-01/CMakeFiles/01.dir/rule: cmake_check_build_system
+lesson_3/3_01/CMakeFiles/3_01.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 01/CMakeFiles/01.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_3/3_01/CMakeFiles/3_01.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
-.PHONY : 01/CMakeFiles/01.dir/rule
+.PHONY : lesson_3/3_01/CMakeFiles/3_01.dir/rule
 
 # Convenience name for target.
-01: 01/CMakeFiles/01.dir/rule
-.PHONY : 01
+3_01: lesson_3/3_01/CMakeFiles/3_01.dir/rule
+.PHONY : 3_01
 
 # clean rule for target.
-01/CMakeFiles/01.dir/clean:
-	$(MAKE) $(MAKESILENT) -f 01/CMakeFiles/01.dir/build.make 01/CMakeFiles/01.dir/clean
-.PHONY : 01/CMakeFiles/01.dir/clean
+lesson_3/3_01/CMakeFiles/3_01.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_01/CMakeFiles/3_01.dir/build.make lesson_3/3_01/CMakeFiles/3_01.dir/clean
+.PHONY : lesson_3/3_01/CMakeFiles/3_01.dir/clean
 
 #=============================================================================
-# Target rules for target 02/CMakeFiles/02.dir
+# Target rules for target lesson_3/3_02/CMakeFiles/3_02.dir
 
 # All Build rule for target.
-02/CMakeFiles/02.dir/all:
-	$(MAKE) $(MAKESILENT) -f 02/CMakeFiles/02.dir/build.make 02/CMakeFiles/02.dir/depend
-	$(MAKE) $(MAKESILENT) -f 02/CMakeFiles/02.dir/build.make 02/CMakeFiles/02.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 02"
-.PHONY : 02/CMakeFiles/02.dir/all
+lesson_3/3_02/CMakeFiles/3_02.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_02/CMakeFiles/3_02.dir/build.make lesson_3/3_02/CMakeFiles/3_02.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_02/CMakeFiles/3_02.dir/build.make lesson_3/3_02/CMakeFiles/3_02.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 3_02"
+.PHONY : lesson_3/3_02/CMakeFiles/3_02.dir/all
 
 # Build rule for subdir invocation for target.
-02/CMakeFiles/02.dir/rule: cmake_check_build_system
+lesson_3/3_02/CMakeFiles/3_02.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 02/CMakeFiles/02.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_3/3_02/CMakeFiles/3_02.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
-.PHONY : 02/CMakeFiles/02.dir/rule
+.PHONY : lesson_3/3_02/CMakeFiles/3_02.dir/rule
 
 # Convenience name for target.
-02: 02/CMakeFiles/02.dir/rule
-.PHONY : 02
+3_02: lesson_3/3_02/CMakeFiles/3_02.dir/rule
+.PHONY : 3_02
 
 # clean rule for target.
-02/CMakeFiles/02.dir/clean:
-	$(MAKE) $(MAKESILENT) -f 02/CMakeFiles/02.dir/build.make 02/CMakeFiles/02.dir/clean
-.PHONY : 02/CMakeFiles/02.dir/clean
+lesson_3/3_02/CMakeFiles/3_02.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_02/CMakeFiles/3_02.dir/build.make lesson_3/3_02/CMakeFiles/3_02.dir/clean
+.PHONY : lesson_3/3_02/CMakeFiles/3_02.dir/clean
+
+#=============================================================================
+# Target rules for target lesson_3/3_03/CMakeFiles/3_03.dir
+
+# All Build rule for target.
+lesson_3/3_03/CMakeFiles/3_03.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_03/CMakeFiles/3_03.dir/build.make lesson_3/3_03/CMakeFiles/3_03.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_03/CMakeFiles/3_03.dir/build.make lesson_3/3_03/CMakeFiles/3_03.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target 3_03"
+.PHONY : lesson_3/3_03/CMakeFiles/3_03.dir/all
+
+# Build rule for subdir invocation for target.
+lesson_3/3_03/CMakeFiles/3_03.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_3/3_03/CMakeFiles/3_03.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : lesson_3/3_03/CMakeFiles/3_03.dir/rule
+
+# Convenience name for target.
+3_03: lesson_3/3_03/CMakeFiles/3_03.dir/rule
+.PHONY : 3_03
+
+# clean rule for target.
+lesson_3/3_03/CMakeFiles/3_03.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_3/3_03/CMakeFiles/3_03.dir/build.make lesson_3/3_03/CMakeFiles/3_03.dir/clean
+.PHONY : lesson_3/3_03/CMakeFiles/3_03.dir/clean
+
+#=============================================================================
+# Target rules for target lesson_4/4_01/CMakeFiles/4_01.dir
+
+# All Build rule for target.
+lesson_4/4_01/CMakeFiles/4_01.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_01/CMakeFiles/4_01.dir/build.make lesson_4/4_01/CMakeFiles/4_01.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_01/CMakeFiles/4_01.dir/build.make lesson_4/4_01/CMakeFiles/4_01.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 4_01"
+.PHONY : lesson_4/4_01/CMakeFiles/4_01.dir/all
+
+# Build rule for subdir invocation for target.
+lesson_4/4_01/CMakeFiles/4_01.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_01/CMakeFiles/4_01.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : lesson_4/4_01/CMakeFiles/4_01.dir/rule
+
+# Convenience name for target.
+4_01: lesson_4/4_01/CMakeFiles/4_01.dir/rule
+.PHONY : 4_01
+
+# clean rule for target.
+lesson_4/4_01/CMakeFiles/4_01.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_01/CMakeFiles/4_01.dir/build.make lesson_4/4_01/CMakeFiles/4_01.dir/clean
+.PHONY : lesson_4/4_01/CMakeFiles/4_01.dir/clean
+
+#=============================================================================
+# Target rules for target lesson_4/4_02/CMakeFiles/4_02.dir
+
+# All Build rule for target.
+lesson_4/4_02/CMakeFiles/4_02.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_02/CMakeFiles/4_02.dir/build.make lesson_4/4_02/CMakeFiles/4_02.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_02/CMakeFiles/4_02.dir/build.make lesson_4/4_02/CMakeFiles/4_02.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 4_02"
+.PHONY : lesson_4/4_02/CMakeFiles/4_02.dir/all
+
+# Build rule for subdir invocation for target.
+lesson_4/4_02/CMakeFiles/4_02.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_02/CMakeFiles/4_02.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : lesson_4/4_02/CMakeFiles/4_02.dir/rule
+
+# Convenience name for target.
+4_02: lesson_4/4_02/CMakeFiles/4_02.dir/rule
+.PHONY : 4_02
+
+# clean rule for target.
+lesson_4/4_02/CMakeFiles/4_02.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_02/CMakeFiles/4_02.dir/build.make lesson_4/4_02/CMakeFiles/4_02.dir/clean
+.PHONY : lesson_4/4_02/CMakeFiles/4_02.dir/clean
+
+#=============================================================================
+# Target rules for target lesson_4/4_03/CMakeFiles/4_03.dir
+
+# All Build rule for target.
+lesson_4/4_03/CMakeFiles/4_03.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_03/CMakeFiles/4_03.dir/build.make lesson_4/4_03/CMakeFiles/4_03.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_03/CMakeFiles/4_03.dir/build.make lesson_4/4_03/CMakeFiles/4_03.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 4_03"
+.PHONY : lesson_4/4_03/CMakeFiles/4_03.dir/all
+
+# Build rule for subdir invocation for target.
+lesson_4/4_03/CMakeFiles/4_03.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_03/CMakeFiles/4_03.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : lesson_4/4_03/CMakeFiles/4_03.dir/rule
+
+# Convenience name for target.
+4_03: lesson_4/4_03/CMakeFiles/4_03.dir/rule
+.PHONY : 4_03
+
+# clean rule for target.
+lesson_4/4_03/CMakeFiles/4_03.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_03/CMakeFiles/4_03.dir/build.make lesson_4/4_03/CMakeFiles/4_03.dir/clean
+.PHONY : lesson_4/4_03/CMakeFiles/4_03.dir/clean
+
+#=============================================================================
+# Target rules for target lesson_4/4_04/CMakeFiles/4_04.dir
+
+# All Build rule for target.
+lesson_4/4_04/CMakeFiles/4_04.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_04/CMakeFiles/4_04.dir/build.make lesson_4/4_04/CMakeFiles/4_04.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_04/CMakeFiles/4_04.dir/build.make lesson_4/4_04/CMakeFiles/4_04.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 4_04"
+.PHONY : lesson_4/4_04/CMakeFiles/4_04.dir/all
+
+# Build rule for subdir invocation for target.
+lesson_4/4_04/CMakeFiles/4_04.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_04/CMakeFiles/4_04.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : lesson_4/4_04/CMakeFiles/4_04.dir/rule
+
+# Convenience name for target.
+4_04: lesson_4/4_04/CMakeFiles/4_04.dir/rule
+.PHONY : 4_04
+
+# clean rule for target.
+lesson_4/4_04/CMakeFiles/4_04.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_04/CMakeFiles/4_04.dir/build.make lesson_4/4_04/CMakeFiles/4_04.dir/clean
+.PHONY : lesson_4/4_04/CMakeFiles/4_04.dir/clean
+
+#=============================================================================
+# Target rules for target lesson_4/4_05/CMakeFiles/4_05.dir
+
+# All Build rule for target.
+lesson_4/4_05/CMakeFiles/4_05.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_05/CMakeFiles/4_05.dir/build.make lesson_4/4_05/CMakeFiles/4_05.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_05/CMakeFiles/4_05.dir/build.make lesson_4/4_05/CMakeFiles/4_05.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target 4_05"
+.PHONY : lesson_4/4_05/CMakeFiles/4_05.dir/all
+
+# Build rule for subdir invocation for target.
+lesson_4/4_05/CMakeFiles/4_05.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_05/CMakeFiles/4_05.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : lesson_4/4_05/CMakeFiles/4_05.dir/rule
+
+# Convenience name for target.
+4_05: lesson_4/4_05/CMakeFiles/4_05.dir/rule
+.PHONY : 4_05
+
+# clean rule for target.
+lesson_4/4_05/CMakeFiles/4_05.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_05/CMakeFiles/4_05.dir/build.make lesson_4/4_05/CMakeFiles/4_05.dir/clean
+.PHONY : lesson_4/4_05/CMakeFiles/4_05.dir/clean
+
+#=============================================================================
+# Target rules for target lesson_4/4_06/CMakeFiles/4_06.dir
+
+# All Build rule for target.
+lesson_4/4_06/CMakeFiles/4_06.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_06/CMakeFiles/4_06.dir/build.make lesson_4/4_06/CMakeFiles/4_06.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_06/CMakeFiles/4_06.dir/build.make lesson_4/4_06/CMakeFiles/4_06.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target 4_06"
+.PHONY : lesson_4/4_06/CMakeFiles/4_06.dir/all
+
+# Build rule for subdir invocation for target.
+lesson_4/4_06/CMakeFiles/4_06.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_06/CMakeFiles/4_06.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : lesson_4/4_06/CMakeFiles/4_06.dir/rule
+
+# Convenience name for target.
+4_06: lesson_4/4_06/CMakeFiles/4_06.dir/rule
+.PHONY : 4_06
+
+# clean rule for target.
+lesson_4/4_06/CMakeFiles/4_06.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_4/4_06/CMakeFiles/4_06.dir/build.make lesson_4/4_06/CMakeFiles/4_06.dir/clean
+.PHONY : lesson_4/4_06/CMakeFiles/4_06.dir/clean
+
+#=============================================================================
+# Target rules for target lesson_5/5_01/CMakeFiles/5_01.dir
+
+# All Build rule for target.
+lesson_5/5_01/CMakeFiles/5_01.dir/all:
+	$(MAKE) $(MAKESILENT) -f lesson_5/5_01/CMakeFiles/5_01.dir/build.make lesson_5/5_01/CMakeFiles/5_01.dir/depend
+	$(MAKE) $(MAKESILENT) -f lesson_5/5_01/CMakeFiles/5_01.dir/build.make lesson_5/5_01/CMakeFiles/5_01.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 5_01"
+.PHONY : lesson_5/5_01/CMakeFiles/5_01.dir/all
+
+# Build rule for subdir invocation for target.
+lesson_5/5_01/CMakeFiles/5_01.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_5/5_01/CMakeFiles/5_01.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+.PHONY : lesson_5/5_01/CMakeFiles/5_01.dir/rule
+
+# Convenience name for target.
+5_01: lesson_5/5_01/CMakeFiles/5_01.dir/rule
+.PHONY : 5_01
+
+# clean rule for target.
+lesson_5/5_01/CMakeFiles/5_01.dir/clean:
+	$(MAKE) $(MAKESILENT) -f lesson_5/5_01/CMakeFiles/5_01.dir/build.make lesson_5/5_01/CMakeFiles/5_01.dir/clean
+.PHONY : lesson_5/5_01/CMakeFiles/5_01.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

@@ -5,7 +5,7 @@
 		<Option title="project_activities"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\SFML\;CMake Files\01\;CMake Files\02\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\SFML\;CMake Files\lesson_3\;CMake Files\lesson_3\3_01\;CMake Files\lesson_3\3_02\;CMake Files\lesson_3\3_03\;CMake Files\lesson_4\;CMake Files\lesson_4\4_01\;CMake Files\lesson_4\4_02\;CMake Files\lesson_4\4_03\;CMake Files\lesson_4\4_04\;CMake Files\lesson_4\4_05\;CMake Files\lesson_4\4_06\;CMake Files\lesson_5\;CMake Files\lesson_5\5_01\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug"/>
@@ -79,9 +79,9 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="01">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/01" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01"/>
+			<Target title="3_01">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/3_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -94,15 +94,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/Makefile&quot;  VERBOSE=1 01"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 3_01"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="01/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/01" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01"/>
+			<Target title="3_01/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/3_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -115,15 +115,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/Makefile&quot;  VERBOSE=1 01/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/01/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 3_01/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="02">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/02" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02"/>
+			<Target title="3_02">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/3_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -136,15 +136,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/Makefile&quot;  VERBOSE=1 02"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 3_02"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="02/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/02" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02"/>
+			<Target title="3_02/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/3_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -157,23 +157,388 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/Makefile&quot;  VERBOSE=1 02/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/02/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 3_02/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_03">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/3_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 3_03"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_03/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/3_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 3_03/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_01">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/4_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 4_01"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_01/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/4_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 4_01/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_02">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/4_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 4_02"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_02/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/4_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 4_02/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_03">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/4_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 4_03"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_03/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/4_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 4_03/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_04">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/4_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 4_04"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_04/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/4_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 4_04/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_05">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/4_05" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 4_05"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_05/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/4_05" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 4_05/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_06">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/4_06" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 4_06"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_06/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/4_06" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 4_06/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_01">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/5_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 5_01"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_01/fast">
+				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/5_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 5_01/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/01/main.cpp">
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_01/main.cpp">
 			<Option target="project_activities"/>
-			<Option target="01"/>
+			<Option target="3_01"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/02/main.cpp">
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_02/main.cpp">
 			<Option target="project_activities"/>
-			<Option target="02"/>
+			<Option target="3_02"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/03/main.cpp">
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_03/main.cpp">
 			<Option target="project_activities"/>
+			<Option target="3_03"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_01/main.cpp">
+			<Option target="project_activities"/>
+			<Option target="4_01"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_02/main.cpp">
+			<Option target="project_activities"/>
+			<Option target="4_02"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_03/main.cpp">
+			<Option target="project_activities"/>
+			<Option target="4_03"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_04/main.cpp">
+			<Option target="project_activities"/>
+			<Option target="4_04"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_05/main.cpp">
+			<Option target="project_activities"/>
+			<Option target="4_05"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_06/main.cpp">
+			<Option target="project_activities"/>
+			<Option target="4_06"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_5/5_01/main.cpp">
+			<Option target="project_activities"/>
+			<Option target="5_01"/>
 		</Unit>
 		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/main.cpp">
 			<Option target="project_activities"/>
@@ -196,11 +561,35 @@
 		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/01/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\01\"/>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_3\3_01\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/02/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\02\"/>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_02/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_3\3_02\"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_03/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_3\3_03\"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_4\4_01\"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_02/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_4\4_02\"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_03/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_4\4_03\"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_04/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_4\4_04\"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_05/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_4\4_05\"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_06/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_4\4_06\"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_5/5_01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lesson_5\5_01\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>
