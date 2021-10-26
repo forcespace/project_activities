@@ -19,6 +19,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_06/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_06/main.cpp.o"
   "/Users/force.space/Documents/ips/с++/project_activities/lesson_5/5_01/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_5/5_01/main.cpp.o"
   "/Users/force.space/Documents/ips/с++/project_activities/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/main.cpp.o"
+  "/Users/force.space/Documents/ips/с++/project_activities/src/Player.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/src/Player.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

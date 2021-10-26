@@ -543,6 +543,12 @@
 		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/main.cpp">
 			<Option target="project_activities"/>
 		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/src/Player.cpp">
+			<Option target="project_activities"/>
+		</Unit>
+		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/src/Player.h">
+			<Option target="project_activities"/>
+		</Unit>
 		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
