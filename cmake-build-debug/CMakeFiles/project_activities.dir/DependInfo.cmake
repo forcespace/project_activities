@@ -8,17 +8,17 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_01/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_3/3_01/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_02/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_3/3_02/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_03/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_3/3_03/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_01/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_01/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_02/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_02/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_03/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_03/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_04/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_04/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_05/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_05/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_06/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_06/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/lesson_5/5_01/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_5/5_01/main.cpp.o"
-  "/Users/force.space/Documents/ips/с++/project_activities/main.cpp" "/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_3/3_01/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_3/3_01/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_3/3_02/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_3/3_02/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_3/3_03/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_3/3_03/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_01/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_01/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_02/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_02/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_03/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_03/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_04/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_04/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_05/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_05/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_06/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_4/4_06/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_5/5_01/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/lesson_5/5_01/main.cpp.o"
+  "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/main.cpp" "/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles/project_activities.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

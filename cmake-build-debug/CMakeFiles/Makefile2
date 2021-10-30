@@ -54,10 +54,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/force.space/Documents/ips/с++/project_activities
+CMAKE_SOURCE_DIR = /Users/sergey.pavlov/Documents/Projects/c++/project_activities
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -260,14 +260,14 @@ lesson_5/5_01/clean: lesson_5/5_01/CMakeFiles/5_01.dir/clean
 CMakeFiles/project_activities.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_activities.dir/build.make CMakeFiles/project_activities.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=21,22,23,24,25,26,27,28,29,30,31,32 "Built target project_activities"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=21,22,23,24,25,26,27,28,29,30,31,32 "Built target project_activities"
 .PHONY : CMakeFiles/project_activities.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/project_activities.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 12
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/project_activities.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/project_activities.dir/rule
 
 # Convenience name for target.
@@ -286,14 +286,14 @@ CMakeFiles/project_activities.dir/clean:
 lesson_3/3_01/CMakeFiles/3_01.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_3/3_01/CMakeFiles/3_01.dir/build.make lesson_3/3_01/CMakeFiles/3_01.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_3/3_01/CMakeFiles/3_01.dir/build.make lesson_3/3_01/CMakeFiles/3_01.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 3_01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 3_01"
 .PHONY : lesson_3/3_01/CMakeFiles/3_01.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_3/3_01/CMakeFiles/3_01.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_3/3_01/CMakeFiles/3_01.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_3/3_01/CMakeFiles/3_01.dir/rule
 
 # Convenience name for target.
@@ -312,14 +312,14 @@ lesson_3/3_01/CMakeFiles/3_01.dir/clean:
 lesson_3/3_02/CMakeFiles/3_02.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_3/3_02/CMakeFiles/3_02.dir/build.make lesson_3/3_02/CMakeFiles/3_02.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_3/3_02/CMakeFiles/3_02.dir/build.make lesson_3/3_02/CMakeFiles/3_02.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 3_02"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 3_02"
 .PHONY : lesson_3/3_02/CMakeFiles/3_02.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_3/3_02/CMakeFiles/3_02.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_3/3_02/CMakeFiles/3_02.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_3/3_02/CMakeFiles/3_02.dir/rule
 
 # Convenience name for target.
@@ -338,14 +338,14 @@ lesson_3/3_02/CMakeFiles/3_02.dir/clean:
 lesson_3/3_03/CMakeFiles/3_03.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_3/3_03/CMakeFiles/3_03.dir/build.make lesson_3/3_03/CMakeFiles/3_03.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_3/3_03/CMakeFiles/3_03.dir/build.make lesson_3/3_03/CMakeFiles/3_03.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target 3_03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target 3_03"
 .PHONY : lesson_3/3_03/CMakeFiles/3_03.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_3/3_03/CMakeFiles/3_03.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_3/3_03/CMakeFiles/3_03.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_3/3_03/CMakeFiles/3_03.dir/rule
 
 # Convenience name for target.
@@ -364,14 +364,14 @@ lesson_3/3_03/CMakeFiles/3_03.dir/clean:
 lesson_4/4_01/CMakeFiles/4_01.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_01/CMakeFiles/4_01.dir/build.make lesson_4/4_01/CMakeFiles/4_01.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_01/CMakeFiles/4_01.dir/build.make lesson_4/4_01/CMakeFiles/4_01.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 4_01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 4_01"
 .PHONY : lesson_4/4_01/CMakeFiles/4_01.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_4/4_01/CMakeFiles/4_01.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_01/CMakeFiles/4_01.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_4/4_01/CMakeFiles/4_01.dir/rule
 
 # Convenience name for target.
@@ -390,14 +390,14 @@ lesson_4/4_01/CMakeFiles/4_01.dir/clean:
 lesson_4/4_02/CMakeFiles/4_02.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_02/CMakeFiles/4_02.dir/build.make lesson_4/4_02/CMakeFiles/4_02.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_02/CMakeFiles/4_02.dir/build.make lesson_4/4_02/CMakeFiles/4_02.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 4_02"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 4_02"
 .PHONY : lesson_4/4_02/CMakeFiles/4_02.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_4/4_02/CMakeFiles/4_02.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_02/CMakeFiles/4_02.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_4/4_02/CMakeFiles/4_02.dir/rule
 
 # Convenience name for target.
@@ -416,14 +416,14 @@ lesson_4/4_02/CMakeFiles/4_02.dir/clean:
 lesson_4/4_03/CMakeFiles/4_03.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_03/CMakeFiles/4_03.dir/build.make lesson_4/4_03/CMakeFiles/4_03.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_03/CMakeFiles/4_03.dir/build.make lesson_4/4_03/CMakeFiles/4_03.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 4_03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 4_03"
 .PHONY : lesson_4/4_03/CMakeFiles/4_03.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_4/4_03/CMakeFiles/4_03.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_03/CMakeFiles/4_03.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_4/4_03/CMakeFiles/4_03.dir/rule
 
 # Convenience name for target.
@@ -442,14 +442,14 @@ lesson_4/4_03/CMakeFiles/4_03.dir/clean:
 lesson_4/4_04/CMakeFiles/4_04.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_04/CMakeFiles/4_04.dir/build.make lesson_4/4_04/CMakeFiles/4_04.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_04/CMakeFiles/4_04.dir/build.make lesson_4/4_04/CMakeFiles/4_04.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 4_04"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 4_04"
 .PHONY : lesson_4/4_04/CMakeFiles/4_04.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_4/4_04/CMakeFiles/4_04.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_04/CMakeFiles/4_04.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_4/4_04/CMakeFiles/4_04.dir/rule
 
 # Convenience name for target.
@@ -468,14 +468,14 @@ lesson_4/4_04/CMakeFiles/4_04.dir/clean:
 lesson_4/4_05/CMakeFiles/4_05.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_05/CMakeFiles/4_05.dir/build.make lesson_4/4_05/CMakeFiles/4_05.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_05/CMakeFiles/4_05.dir/build.make lesson_4/4_05/CMakeFiles/4_05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target 4_05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target 4_05"
 .PHONY : lesson_4/4_05/CMakeFiles/4_05.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_4/4_05/CMakeFiles/4_05.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_05/CMakeFiles/4_05.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_4/4_05/CMakeFiles/4_05.dir/rule
 
 # Convenience name for target.
@@ -494,14 +494,14 @@ lesson_4/4_05/CMakeFiles/4_05.dir/clean:
 lesson_4/4_06/CMakeFiles/4_06.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_06/CMakeFiles/4_06.dir/build.make lesson_4/4_06/CMakeFiles/4_06.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_4/4_06/CMakeFiles/4_06.dir/build.make lesson_4/4_06/CMakeFiles/4_06.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target 4_06"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target 4_06"
 .PHONY : lesson_4/4_06/CMakeFiles/4_06.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_4/4_06/CMakeFiles/4_06.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_4/4_06/CMakeFiles/4_06.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_4/4_06/CMakeFiles/4_06.dir/rule
 
 # Convenience name for target.
@@ -520,14 +520,14 @@ lesson_4/4_06/CMakeFiles/4_06.dir/clean:
 lesson_5/5_01/CMakeFiles/5_01.dir/all:
 	$(MAKE) $(MAKESILENT) -f lesson_5/5_01/CMakeFiles/5_01.dir/build.make lesson_5/5_01/CMakeFiles/5_01.dir/depend
 	$(MAKE) $(MAKESILENT) -f lesson_5/5_01/CMakeFiles/5_01.dir/build.make lesson_5/5_01/CMakeFiles/5_01.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 5_01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 5_01"
 .PHONY : lesson_5/5_01/CMakeFiles/5_01.dir/all
 
 # Build rule for subdir invocation for target.
 lesson_5/5_01/CMakeFiles/5_01.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson_5/5_01/CMakeFiles/5_01.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/CMakeFiles 0
 .PHONY : lesson_5/5_01/CMakeFiles/5_01.dir/rule
 
 # Convenience name for target.

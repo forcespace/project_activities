@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\SFML\;CMake Files\lesson_3\;CMake Files\lesson_3\3_01\;CMake Files\lesson_3\3_02\;CMake Files\lesson_3\3_03\;CMake Files\lesson_4\;CMake Files\lesson_4\4_01\;CMake Files\lesson_4\4_02\;CMake Files\lesson_4\4_03\;CMake Files\lesson_4\4_04\;CMake Files\lesson_4\4_05\;CMake Files\lesson_4\4_06\;CMake Files\lesson_5\;CMake Files\lesson_5\5_01\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="project_activities">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/project_activities" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/project_activities" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_activities"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_activities"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="project_activities/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/project_activities" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/project_activities" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,15 +73,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_activities/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 project_activities/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="3_01">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/3_01" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/3_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -94,15 +94,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 3_01"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 3_01"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="3_01/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/3_01" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/3_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -115,15 +115,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 3_01/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 3_01/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_01/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="3_02">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/3_02" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/3_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -136,15 +136,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 3_02"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 3_02"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="3_02/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/3_02" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/3_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -157,15 +157,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 3_02/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 3_02/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_02/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="3_03">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/3_03" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/3_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -178,15 +178,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 3_03"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 3_03"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="3_03/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/3_03" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/3_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -199,15 +199,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 3_03/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 3_03/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_3/3_03/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_01">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/4_01" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/4_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -220,15 +220,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 4_01"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 4_01"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_01/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/4_01" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/4_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -241,15 +241,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 4_01/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 4_01/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_01/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_02">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/4_02" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/4_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -262,15 +262,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 4_02"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 4_02"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_02/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/4_02" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/4_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -283,15 +283,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 4_02/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 4_02/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_02/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_03">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/4_03" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/4_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -304,15 +304,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 4_03"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 4_03"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_03/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/4_03" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/4_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -325,15 +325,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 4_03/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 4_03/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_03/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_04">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/4_04" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/4_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -346,15 +346,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 4_04"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 4_04"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_04/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/4_04" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/4_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -367,15 +367,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 4_04/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 4_04/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_04/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_05">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/4_05" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/4_05" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -388,15 +388,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 4_05"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 4_05"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_05/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/4_05" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/4_05" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -409,15 +409,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 4_05/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 4_05/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_05/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_06">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/4_06" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/4_06" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -430,15 +430,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 4_06"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 4_06"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="4_06/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/4_06" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/4_06" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -451,15 +451,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 4_06/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 4_06/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_4/4_06/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="5_01">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/5_01" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/5_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -472,15 +472,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 5_01"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 5_01"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="5_01/fast">
-				<Option output="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/5_01" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01"/>
+				<Option output="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/5_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -493,105 +493,105 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 5_01/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/force.space/Documents/ips/с++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 5_01/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/sergey.pavlov/Documents/Projects/c++/project_activities/cmake-build-debug/lesson_5/5_01/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_01/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_3/3_01/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="3_01"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_02/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_3/3_02/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="3_02"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_03/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_3/3_03/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="3_03"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_01/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_01/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="4_01"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_02/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_02/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="4_02"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_03/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_03/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="4_03"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_04/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_04/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="4_04"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_05/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_05/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="4_05"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_06/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_06/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="4_06"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_5/5_01/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_5/5_01/main.cpp">
 			<Option target="project_activities"/>
 			<Option target="5_01"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/main.cpp">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/main.cpp">
 			<Option target="project_activities"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/src/map.h">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/src/map.h">
 			<Option target="project_activities"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/../../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_01/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_3/3_01/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_3\3_01\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_02/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_3/3_02/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_3\3_02\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_3/3_03/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_3/3_03/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_3\3_03\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_01/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_01/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_4\4_01\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_02/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_02/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_4\4_02\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_03/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_03/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_4\4_03\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_04/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_04/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_4\4_04\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_05/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_05/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_4\4_05\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_4/4_06/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_4/4_06/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_4\4_06\"/>
 		</Unit>
-		<Unit filename="/Users/force.space/Documents/ips/с++/project_activities/lesson_5/5_01/CMakeLists.txt">
+		<Unit filename="/Users/sergey.pavlov/Documents/Projects/c++/project_activities/lesson_5/5_01/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lesson_5\5_01\"/>
 		</Unit>
 	</Project>
