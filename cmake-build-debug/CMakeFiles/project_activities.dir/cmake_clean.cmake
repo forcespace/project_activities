@@ -10,7 +10,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/project_activities.dir/lesson_4/4_06/main.cpp.o"
   "CMakeFiles/project_activities.dir/lesson_5/5_01/main.cpp.o"
   "CMakeFiles/project_activities.dir/main.cpp.o"
-  "CMakeFiles/project_activities.dir/src/Player.cpp.o"
   "project_activities"
   "project_activities.pdb"
 )

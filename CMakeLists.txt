@@ -3,7 +3,7 @@ project(project_activities)
 
 set(CMAKE_CXX_STANDARD 23)
 
-set(SOURCE_FILES main.cpp lesson_3/3_01/main.cpp lesson_3/3_02/main.cpp lesson_3/3_03/main.cpp lesson_4/4_01/main.cpp lesson_4/4_02/main.cpp lesson_4/4_03/main.cpp lesson_4/4_04/main.cpp lesson_4/4_05/main.cpp lesson_4/4_06/main.cpp lesson_5/5_01/main.cpp src/Player.cpp src/Player.h)
+set(SOURCE_FILES main.cpp lesson_3/3_01/main.cpp lesson_3/3_02/main.cpp lesson_3/3_03/main.cpp lesson_4/4_01/main.cpp lesson_4/4_02/main.cpp lesson_4/4_03/main.cpp lesson_4/4_04/main.cpp lesson_4/4_05/main.cpp lesson_4/4_06/main.cpp lesson_5/5_01/main.cpp src/map.h)
 add_executable(project_activities ${SOURCE_FILES})
 include_directories(/usr/local/include)
 
